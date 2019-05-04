@@ -1,1 +1,1 @@
-Available @ RileyMShea.github.io
+Available @ [RileyMShea.github.io](RileyMShea.github.io)
