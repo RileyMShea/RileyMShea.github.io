@@ -1,1 +1,1 @@
-Homepage available @ RileyMShea.github.io
+Available @ RileyMShea.github.io
