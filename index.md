@@ -13,6 +13,10 @@
 
 >> Auto-generated html documentation for project code
 
+### Intro To Data Analysis
+> [Investigate a dataset](https://rileymshea.github.io/Investigate-a-data-set/)
+>> Detailed write-up of investigation of TMDB movie data set
+
 
 
 
