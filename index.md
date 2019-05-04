@@ -10,6 +10,7 @@
 >> Detailed Project writeup
 
 > [Data Wrangling: Sphinx Docs](https://rileymshea.github.io/DataWranglingC/html/index.html)
+
 >> Auto-generated html documentation for project code
 
 
