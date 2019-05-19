@@ -4,6 +4,10 @@
 -------------------------------------
 
 
+
+### Exploratory Data Analysis with R
+[Red wine quality EDA](https://rileymshea.github.io/EDA_Project/RileyShea_EDA_Project.html)
+
 ### Data Wrangling
 > [Rochester NY Open Street Map: Cleaning and Exploration](https://github.com/RileyMShea/DataWranglingC/blob/master/Final_Project/Final_submission.md)
 
