@@ -6,20 +6,26 @@
 
 
 ### Exploratory Data Analysis with R
+
 [Red wine quality EDA](https://rileymshea.github.io/EDA_Project/RileyShea_EDA_Project.html)
 
+> Univariate, Bivariate, and Multivariate plots and analysis on chemical properties of wine
+> and how they affect quality ratings by wine experts.
+
 ### Data Wrangling
-> [Rochester NY Open Street Map: Cleaning and Exploration](https://github.com/RileyMShea/DataWranglingC/blob/master/Final_Project/Final_submission.md)
 
->> Detailed Project writeup
+[Rochester NY Open Street Map: Cleaning and Exploration](https://github.com/RileyMShea/DataWranglingC/blob/master/Final_Project/Final_submission.md)
 
-> [Data Wrangling: Sphinx Docs](https://rileymshea.github.io/DataWranglingC/html/index.html)
+> Detailed Project writeup
 
->> Auto-generated html documentation for project code
+[Data Wrangling: Sphinx Docs](https://rileymshea.github.io/DataWranglingC/html/index.html)
+
+> Auto-generated html documentation for project code
 
 ### Intro To Data Analysis
-> [Investigate a dataset](https://rileymshea.github.io/Investigate-a-data-set/)
->> Detailed write-up of investigation of TMDB movie data set
+
+[Investigate a dataset](https://rileymshea.github.io/Investigate-a-data-set/)
+> Detailed write-up of investigation of TMDB movie data set
 
 
 
