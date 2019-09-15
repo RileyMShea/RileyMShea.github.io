@@ -7,6 +7,11 @@
 ## Udacity Nanodegree Projects
 -------------------------------------
 
+### Intro to Machine Learning
+
+[Machine Learning - Enron Project](https://rileymshea.github.io/Enron_Project/Question_answers.html)
+
+> Utilized Sklearn to analyze public Enron dataset and build a person of interest identifier.
 
 
 ### Exploratory Data Analysis with R
